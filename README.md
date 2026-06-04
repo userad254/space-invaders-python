@@ -63,7 +63,7 @@ python src/main.py
 ## 🏗️ Architecture du projet
 
 ```text
-Day_95/
+space-invaders-python/
 ├── src/
 │   ├── main.py          # Contrôleur principal du jeu
 │   ├── spaceship.py     # Classe du joueur
