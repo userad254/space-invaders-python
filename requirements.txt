@@ -1,0 +1,3 @@
+# Turtle graphics is built-in to Python, no external dependencies for core game.
+# (Optional) For distribution or packaging:
+# pyinstaller>=6.0.0
